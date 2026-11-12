@@ -1,5 +1,5 @@
 ---
-name: house-style
+name: house-style: acme
 description: Write in the Acme brand voice, for the web, email and support replies.
 ---
 
